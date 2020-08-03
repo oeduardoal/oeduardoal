@@ -13,9 +13,11 @@ Hi there, I'm Eduardo Almeida, Front-End Specialist ⚛️ currently working wit
 📖 I'm currently learning: Next.js, GraphQL and Design Systems <br/>
 
 📊 What I do:
-
+<div style="width: 50%">
 [![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=oeduardoal&count_private=true&show_icons=true&theme=dark)](https://github.com/oeduardoal)
-
+</div>
+<div style="width: 50%">
 [![Eduardo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=oeduardoal&count_private=true&show_icons=true&theme=dark)](https://github.com/oeduardoal)
+</div>
 
 Check out my [resume at oeduardoal.dev](https://oeduardoal.dev) for more information.
