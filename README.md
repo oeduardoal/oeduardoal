@@ -6,10 +6,19 @@
 </p>
 
 
-Hi there, I'm Eduardo Almeida, Front-End Specialist ⚛️ currently working with Next.js and React<br/>
+I'm a UI developer, based in São Paulo, Brazil. Trying to create content and interested in design systems, Dev experience and CI/CD Tools.
+<br/>
+<br/>
+I work at @grupoboticario as a Front End Engineer. Helping to build a Grupo Boticário's design system.
+<br/>
+<br/>
+You can find me on all social networks by @oeduardoal ⚡️
+Send me a e-mail me@oeduardoal.dev
+<br/>
+<br/>
 
-📚 Skills: JavaScript (ES2020), Javascript Node.js, React.js and React Native! <br/>
-🔧 Tools I use: VSCode, Git, iTerm, XCode <br/>
+📚 Skills: JavaScript, Javascript Node.js, React.js and React Native! <br/>
+🔧 Tools I use: VSCode, Git, Fig.app, iTerm, XCode <br/>
 📖 I'm currently learning: Next.js, GraphQL and Design Systems <br/>
 
 📊 What I do:
