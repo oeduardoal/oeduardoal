@@ -9,7 +9,7 @@
 I'm a UI developer, based in São Paulo, Brazil. Trying to create content and interested in design systems, Dev experience and CI/CD Tools.
 <br/>
 <br/>
-I work at @grupoboticario as a Front End Engineer. Helping to build a Grupo Boticário's design system.
+I work at @lootrush as a Software Engineer.
 <br/>
 <br/>
 You can find me on all social networks by @oeduardoal ⚡️
