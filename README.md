@@ -2,7 +2,7 @@
 
 I'm Eduardo Almeida, a Senior Software Engineer specializing in financial infrastructure, blockchain systems, and scalable backend architectures.
 
-Currently at LootRush, I'm working on a stablecoin platform that connects multiple blockchains with real-world payment systems — including on/off-ramps, card infrastructure, and cross-chain liquidity flows.
+Currently at LootRush, I'm working on a stablecoin platform that connects multiple blockchains with real-world payment systems, including on/off-ramps, card infrastructure, and cross-chain liquidity flows.
 
 My work focuses on building high-performance systems for crypto payments and financial operations, handling complex scenarios like cross-chain transactions, asset conversions, and reliable transaction processing at scale.
 
