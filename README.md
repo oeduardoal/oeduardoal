@@ -1,23 +1,29 @@
 # 👋 Hi there
 
-I'm Eduardo Almeida, a passionate software developer and tech enthusiast.
-With over 9 years of experience, I've contributed to a wide range of exciting projects and explored diverse technologies that continuously fuel my passion for software development.
+I'm Eduardo Almeida, a Senior Software Engineer specializing in financial infrastructure, blockchain systems, and scalable backend architectures.
 
-# 🚀 Expertise
+Currently at LootRush, I'm working on a stablecoin platform that connects multiple blockchains with real-world payment systems — including on/off-ramps, card infrastructure, and cross-chain liquidity flows.
 
-As a Senior Software Engineer, currently building a Rental Marketplace for NFTs at https://www.lootrush.com, using Next.js and Tailwind CSS. My expertise spans various areas of blockchain technology and microservices architecture, with a strong focus on implementing features for EVM-based blockchains and developing scalable infrastructures.
+My work focuses on building high-performance systems for crypto payments and financial operations, handling complex scenarios like cross-chain transactions, asset conversions, and reliable transaction processing at scale.
 
-Here are some of my key activities and technical skills:
+## 🚀 What I do
 
-- Blockchain: Developed features for EVM-based blockchains to enable secure and efficient crypto operations.
-- NFT Marketplace: Spearheading the creation of a rental marketplace for NFTs using Next.js and Tailwind CSS.
-- Microservices: Worked extensively with microservices using Node.js, RDS, Cache, and GraphQL, following the CQRS pattern.
-- JavaScript Expertise: Specialized in JavaScript frameworks like Node.js, Next.js, React, Vue, and Tailwind CSS for building modern web applications.
-- CI/CD Management: Managed CI/CD pipelines with GitHub Actions, AWS, and ArgoCD in monorepo environments (NX, Lerna, Yarn Workspace).
-- Build and Tooling: Experienced in creating and managing build pipelines using Webpack V5, Bash, and other tools to streamline development processes.
-- Infrastructure: Skilled in managing AWS services (RDS, IAM, Firewall, CloudFront, LoadBalancers) and working with Kubernetes for infrastructure as code.
+- Design and build financial systems on top of blockchain (stablecoins, on/off-ramps, payment flows)
+- Architect scalable backend systems using Node.js, TypeScript, and microservices
+- Work with distributed systems on AWS and Kubernetes (EKS)
+- Handle high-throughput transaction systems with strong consistency and reliability
+- Build and optimize cross-chain operations (bridges, swaps, liquidity routing)
 
-My focus is on delivering high-performance, scalable systems that meet both technical and business needs, particularly in the fast-evolving world of blockchain and decentralized applications. You can find me on social networks as @oeduardoal ⚡️ or reach out via email at me@oeduardoal.dev.
+## 🧠 Tech & Focus Areas
+
+- **Backend:** Node.js, TypeScript, GraphQL, SQL
+- **Infra:** AWS, Kubernetes, CI/CD, Observability (Grafana, OpenTelemetry)
+- **Blockchain:** EVM, smart wallets (ERC-4337), cross-chain protocols
+- **Data:** PostgreSQL, event-driven architectures, CQRS
+
+## ⚡ Philosophy
+
+I focus on building systems that are simple, scalable, and reliable — especially in complex domains like payments and blockchain, where correctness and performance are critical.
 
 # 💻 Tech Stack
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
